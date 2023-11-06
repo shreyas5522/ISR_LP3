@@ -1,0 +1,1 @@
+This is a sample text. It contains various words and sentences. The purpose of this text is to demonstrate the functionality of the conflation algorithm. The algorithm will remove stop words, remove suffixes, and count the frequency of each word. It will provide insights into the text analysis process. Feel free to modify the text and observe the results.
